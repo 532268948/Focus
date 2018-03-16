@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ActionBar_Height">56dp</dimen>
+    <dimen name="news_tab_margin">5dp</dimen>
+</resources>
